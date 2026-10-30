@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Text Machine Language",
+      "Hyperlinks Text Mark Language",
+      "Home Tool Markup Language"
+    ],
+    "correctOption": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which language is used to style a web page?",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "SQL"
+    ],
+    "correctOption": "CSS"
+  },
+  {
+    "question": "Which language is mainly used to add interactivity to websites?",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "correctOption": "JavaScript"
+  },
+  {
+    "question": "Which keyword is used to declare a constant in JavaScript?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "constant"
+    ],
+    "correctOption": "const"
+  },
+  {
+    "question": "Which hook is used to manage state in a React component?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useFetch",
+      "useComponent"
+    ],
+    "correctOption": "useState"
+  },
+  {
+    "question": "Which hook is commonly used for side effects in React?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useData",
+      "useSideEffect"
+    ],
+    "correctOption": "useEffect"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Colorful Style Sheets"
+    ],
+    "correctOption": "Cascading Style Sheets"
+  },
+  {
+    "question": "Which method is used to add an item to the end of a JavaScript array?",
+    "options": [
+      "push()",
+      "pop()",
+      "shift()",
+      "add()"
+    ],
+    "correctOption": "push()"
+  },
+  {
+    "question": "Which symbol is used for strict equality in JavaScript?",
+    "options": [
+      "=",
+      "==",
+      "===",
+      "!="
+    ],
+    "correctOption": "==="
+  },
+  {
+    "question": "Which command is commonly used to start a Vite development server?",
+    "options": [
+      "npm start",
+      "npm run dev",
+      "npm run server",
+      "vite start"
+    ],
+    "correctOption": "npm run dev"
+  }
+]
